@@ -1,0 +1,61 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  width: 540px;
+  margin: 0 auto 72px;
+}
+
+#main img {
+  margin-top: 64px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: normal;
+  font-weight: 500;
+  margin-bottom: 32px
+}
+
+h1 span {
+  color: #EE24FF;
+}
+
+p {
+  width: 540px;
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 400;
+  text-align: center;
+}
+
+p #black {
+  color: #3F3D56;
+  font-weight: 700;
+}
+
+#footer {
+  margin-bottom: 33px;
+}
+
+/*Pegue o a que anteriormente tem um a*/
+#footer a + a {
+  margin-left: 42px;
+}
+
+#line {
+  width: 391px;
+  height: 0px;
+  margin: 64px auto 8px;
+  border: 1px solid #eceff2;
+}
+
+#wave {
+  width: 1460px;
+  height: 104px;
+}
